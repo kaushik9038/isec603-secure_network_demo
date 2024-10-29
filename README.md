@@ -1,7 +1,7 @@
 # Teaching Aid: Understanding Wireless Security and Securing Home IoT Networks
 
 **Author:** Kaushik Mazumder  
-**UCID:** 30267154
+
 
 ## Introduction
 
