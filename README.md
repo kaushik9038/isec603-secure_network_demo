@@ -1,4 +1,4 @@
-Teaching Aid: Understanding Wireless Security and securing home IoT network. 
+**Teaching Aid: Understanding Wireless Security and securing home IoT network.** 
 Name: Kaushik Mazumder 
 UCID#30267154 
 Introduction 
