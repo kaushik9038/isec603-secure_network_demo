@@ -15,5 +15,6 @@ In this guide, we will cover:
 - **Wireless Security Protocols**
 - **Vulnerability Assessment**
 - **Practical Steps for Securing Home Networks**
+- **Python code depicting secure server client communication using SSL/TLS over TCP**
 
 By the end, readers will gain a comprehensive understanding of wireless security and methods to protect their home IoT networks.
