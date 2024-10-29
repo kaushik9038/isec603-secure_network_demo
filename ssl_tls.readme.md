@@ -5,7 +5,7 @@ This Python project demonstrates secure communication between a server and a cli
 
 ## Key Components and Functionality
 
-### 1. `generate_certificate()`
+### 1. `gen_cert()`
 This function verifies the presence of the `server.pem` certificate file, containing both a self-signed SSL certificate and a private key necessary for secure communication. If `server.pem` is missing, the function uses the `subprocess` module to run an OpenSSL command, generating a self-signed certificate.
 
 - **OpenSSL Command Execution**: The command `openssl req -new -x509 -days 365 -nodes -out server.pem -keyout server.pem -subj "/C=US/ST=State/L=City/O=Organization/OU=Department/CN=localhost"` generates a new certificate valid for 365 days. The `-nodes` flag ensures the private key isn’t encrypted, making it easier to access within the server code.
